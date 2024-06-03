@@ -1,0 +1,163 @@
+#calculator{
+    border: 2px solid rgb(136, 132, 132);
+    border-radius: 5px;
+    border-color:rgb(145, 145, 39);
+    width: 300px;
+    height: 560px;
+    margin: auto;
+}
+#display{
+    margin: 10px;
+    width: 270px;
+    height: 40px;
+    font-size: 36px;
+    display:flex;
+    border: 1px groove rgb(24, 90, 90);
+    justify-content:center;
+    align-items:center;
+}
+.inner-button{
+    box-shadow: 0 0 3px cyan, 0 0 10px cyan;
+    background-color: rgb(189, 181, 181);
+    width: 68px;
+    justify-content: center;
+    height: 60px;
+    border-radius: 5px;
+    margin: 8px 8px 8px 8px;
+}
+.inner-button:hover {
+    box-shadow: 0 0 5px cyan,
+    0 0 15px cyan, 0 0 50px cyan,
+    0 0 15px cyan,
+    0 0 15px cyan;
+}
+.button{
+    justify-content: center;
+    position: relative;
+    display: flex;
+    margin: auto;
+}
+
+
+
+.inner-button2{
+    box-shadow: 0 0 3px cyan, 0 0 10px cyan;
+    background-color: rgb(189, 181, 181);
+    width: 68px;
+    justify-content: center;
+    height: 60px;
+    border-radius: 5px;
+    margin: 8px 8px 8px 8px;
+}
+.inner-button2:hover {
+    box-shadow: 0 0 5px cyan,
+    0 0 15px cyan, 0 0 50px cyan,
+    0 0 15px cyan,
+    0 0 15px cyan;
+}
+.button2{
+    justify-content: center;
+    position: relative;
+    display: flex;
+    margin: auto;
+}
+
+.inner-button3{
+    box-shadow: 0 0 3px cyan, 0 0 10px cyan;
+    background-color: rgb(189, 181, 181);
+    width: 68px;
+    justify-content: center;
+    height: 60px;
+    border-radius: 5px;
+    margin: 8px 8px 8px 8px;
+}
+.inner-button3:hover {
+    box-shadow: 0 0 5px cyan,
+    0 0 15px cyan, 0 0 50px cyan,
+    0 0 15px cyan,
+    0 0 15px cyan;
+}
+.button3{
+    justify-content: center;
+    position: relative;
+    display: flex;
+    margin: auto;
+}
+
+
+.inner-button4{
+    box-shadow: 0 0 3px cyan, 0 0 10px cyan;
+    background-color: rgb(189, 181, 181);
+    width: 68px;
+    justify-content: center;
+    height: 60px;
+    border-radius: 5px;
+    margin: 8px 8px 8px 8px;
+}
+.inner-button4:hover {
+    box-shadow: 0 0 5px cyan,
+    0 0 15px cyan, 0 0 50px cyan,
+    0 0 15px cyan,
+    0 0 15px cyan;
+}
+.button4{
+    justify-content: center;
+    position: relative;
+    display: flex;
+    margin: auto;
+}
+
+
+.inner-button5{
+    box-shadow: 0 0 3px cyan, 0 0 10px cyan;
+    background-color: rgb(189, 181, 181);
+    width: 68px;
+    justify-content: center;
+    height: 60px;
+    border-radius: 5px;
+    margin: 8px 8px 8px 8px;
+}
+.inner-button5:hover {
+    box-shadow: 0 0 5px cyan,
+    0 0 15px cyan, 0 0 50px cyan,
+    0 0 15px cyan,
+    0 0 15px cyan;
+}
+.button5{
+    justify-content: center;
+    position: relative;
+    display: flex;
+    margin: auto;
+}
+
+
+.inner-button6{
+    box-shadow: 0 0 3px cyan, 0 0 10px cyan;
+    background-color: rgb(189, 181, 181);
+    width: 68px;
+    justify-content: center;
+    height: 60px;
+    border-radius: 5px;
+    margin: 8px 8px 8px 8px;
+}
+.inner-button6:hover {
+    box-shadow: 0 0 5px cyan,
+    0 0 15px cyan, 0 0 50px cyan,
+    0 0 15px cyan,
+    0 0 15px cyan;
+}
+.button6{
+    justify-content: center;
+    position: relative;
+    display: flex;
+    margin: auto;
+}
+
+.heading{
+    font: size 20px;
+    color: rgb(60, 94, 21);
+    margin: auto;
+    justify-content: center;
+    display: flex;
+    height: 15px;
+}
